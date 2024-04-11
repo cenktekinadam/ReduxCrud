@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": "287c1628-860a-4e35-b64b-74e8a8cc0851",
+      "text": "React Native ile Çalışan takip uygulaması yaz !!!",
+      "is_done": true,
+      "created_at": "11.04.2024"
+    },
+    {
+      "id": "f5d7a214-8449-4744-b1a4-5a4f34ffaf07",
+      "text": "Backend İhtiyaçları için firebase dokumanları oku",
+      "is_done": true,
+      "created_at": "11.04.2024"
+    },
+    {
+      "id": "0aff8bdd-ff99-4aaa-a708-fb63287938a6",
+      "text": "Backend ihtiyaçlarını analiz et",
+      "is_done": true,
+      "created_at": "11.04.2024"
+    }
+  ]
+}
